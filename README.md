@@ -5,7 +5,7 @@
 ### Strategy
 
 - modulate the library to work with TypeScript classes
-- implement `ts-express-decorators` (_Ts.ED_)
+- implement metadata and decorators with `reflect-metadata`
 
 ### Packages
 
@@ -20,5 +20,6 @@ express-typescript
 +-- concurrently@5.3.0
 +-- cookie-session@1.4.0
 +-- express@4.17.1
-`-- nodemon@2.0.4
++-- nodemon@2.0.4
+`-- reflect-metadata@0.1.13
 ```
